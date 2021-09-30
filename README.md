@@ -8,8 +8,8 @@
 <a href="https://github.com/"><img titlefathiranwarudin680="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
 </p>
 <p align='center'>
-   <a href="https://wa.me/message/VWBFYVSGSHEQJ1"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/is_me_resta"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
+   <a href="https://wa.me/message/6AUBQVKBLNQ7N1"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/zyystore_"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 
 
 
@@ -20,7 +20,7 @@
 # Clone this project
 
 ```bash
-> git clone https://github.com/Restaa/bot
+> git clone https://github.com/fathiranwarudin680/bot
 ```
 
 ## Install the dependencies:
@@ -86,7 +86,7 @@ you've just cloned!!
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ## Group
-* <a href="https://chat.whatsapp.com/EIh2exPEyfTDviBHR8antl"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/HdLHeP05ATVBcKm1zi9b8h"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ### Donate
 * <a href="https://saweria.co/donate/restafvnky"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
