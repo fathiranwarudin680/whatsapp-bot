@@ -2,7 +2,7 @@
 <p align="center">
 <a href="#"><img title="bot whatsapp" src="https://telegra.ph/file/91b3b66c940d944f742fe.jpg?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p> 
-<a href="https://github.com/Restaa"><img title="Author" src="https://img.shields.io/badge/Author-Restaa-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Restaa"><img title="Author" src="https://img.shields.io/badge/Author-Fathir-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Restaa/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
